@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 40384f19b0e6fa2468e4c6142dda13c3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3875
+      y: 1529
+      width: 0
+      height: 0
+    spriteID: 1516a10c3ef16424dbe6b9920db48f96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1955, y: 449}
+  - name: Paris
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3761
+      y: 1529
+      width: 106
+      height: 30
+    spriteID: d2213ec23e35b3d40a3421d230d93b13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2835, y: 971}
+  - name: flag
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3761
+      y: 1434
+      width: 143
+      height: 87
+    spriteID: e9dd546052d30184da68852f80d93183
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2565, y: 514}
+  - name: clock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3976
+      y: 1434
+      width: 31
+      height: 49
+    spriteID: 54da8a3abc5e080428468517f6fdec67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2999, y: 734}
+  - name: Station
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1378
+      height: 801
+    spriteID: 92ac2e1381c96b74aaa847c6c4f37f9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1639, y: -213}
+  - name: Layer 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1434
+      width: 1821
+      height: 150
+    spriteID: cbc74b699fc85924e9de8e4cb1398a28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1920, y: 1148}
+  - name: Bush big copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3860
+      y: 1092
+      width: 178
+      height: 250
+    spriteID: f836410dbb36d384299057d42ff509cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3860, y: 899}
+  - name: bush big
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 813
+      width: 300
+      height: 252
+    spriteID: b5166fcc0c5bcd14c803411dbb9614d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 378, y: 616}
+  - name: bush small copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3912
+      y: 1434
+      width: 56
+      height: 131
+    spriteID: d6fe1284fea76ab4995eb77374f30d71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2048, y: 1200}
+  - name: bush small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3318
+      y: 853
+      width: 211
+      height: 187
+    spriteID: 96d70e3282b212f4c9424c8b15ff335b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3152, y: 626}
+  - name: Tree large
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1660
+      width: 791
+      height: 816
+    spriteID: 0e4427c61c17d8a43b5ac8e42ddfe250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1031, y: 1424}
+  - name: tree small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 803
+      y: 1660
+      width: 295
+      height: 596
+    spriteID: 2a6f6884bae68ae488ef7e795228915b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -822, y: 1413}
+  - name: Tree tall
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3318
+      y: 4
+      width: 531
+      height: 841
+    spriteID: e38575e5eeb737e4e93ecc38c36ad837
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3163, y: -235}
+  - name: Eiffel tower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2484
+      width: 412
+      height: 845
+    spriteID: 043b01f197348134084e875b7c2455bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2276}
+  - name: grass
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1592
+      width: 1920
+      height: 60
+    spriteID: c13f2f2e752d49044b2c0eec4e5fca4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 1367}
+  - name: Foreground
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1092
+      width: 1920
+      height: 334
+    spriteID: ef4405b97a3ade94f8883df85e52f18c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 1092}
+  - name: bg buildings
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 560
+    spriteID: ebc2a72933e25f94bbce32ff440dd2fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 921}
+  - name: Layer 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 902a28f2a62356247a6fa0aa709f96e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1516a10c3ef16424dbe6b9920db48f96
+    layerID: 0
+    mosaicPosition: {x: 3875, y: 1529}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Building
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 754c11e46f50d8f4b8b1f190d3b773af
+    layerID: -757121602
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Paris
+    spriteName: Paris
+    isGroup: 0
+    parentIndex: 1
+    spriteID: d2213ec23e35b3d40a3421d230d93b13
+    layerID: -166004619
+    mosaicPosition: {x: 3761, y: 1529}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: flag
+    spriteName: flag
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e9dd546052d30184da68852f80d93183
+    layerID: 1232676424
+    mosaicPosition: {x: 3761, y: 1434}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: clock
+    spriteName: clock
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 54da8a3abc5e080428468517f6fdec67
+    layerID: -549136684
+    mosaicPosition: {x: 3976, y: 1434}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Station
+    spriteName: Station
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 92ac2e1381c96b74aaa847c6c4f37f9f
+    layerID: -2052376798
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Elements
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 13296cd2745b26047822c19e7e26d922
+    layerID: 826961617
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 18
+    spriteName: Layer 18
+    isGroup: 0
+    parentIndex: 6
+    spriteID: cbc74b699fc85924e9de8e4cb1398a28
+    layerID: -870485136
+    mosaicPosition: {x: 1932, y: 1434}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bush big copy
+    spriteName: Bush big copy
+    isGroup: 0
+    parentIndex: 6
+    spriteID: f836410dbb36d384299057d42ff509cb
+    layerID: 1844964305
+    mosaicPosition: {x: 3860, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: bush big
+    spriteName: bush big
+    isGroup: 0
+    parentIndex: 6
+    spriteID: b5166fcc0c5bcd14c803411dbb9614d4
+    layerID: -94334482
+    mosaicPosition: {x: 1932, y: 813}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: bush small copy
+    spriteName: bush small copy
+    isGroup: 0
+    parentIndex: 6
+    spriteID: d6fe1284fea76ab4995eb77374f30d71
+    layerID: 1526680812
+    mosaicPosition: {x: 3912, y: 1434}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: bush small
+    spriteName: bush small
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 96d70e3282b212f4c9424c8b15ff335b
+    layerID: 1362654355
+    mosaicPosition: {x: 3318, y: 853}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tree large
+    spriteName: Tree large
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 0e4427c61c17d8a43b5ac8e42ddfe250
+    layerID: 1584627039
+    mosaicPosition: {x: 4, y: 1660}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: tree small
+    spriteName: tree small
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 2a6f6884bae68ae488ef7e795228915b
+    layerID: -1288118831
+    mosaicPosition: {x: 803, y: 1660}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tree tall
+    spriteName: Tree tall
+    isGroup: 0
+    parentIndex: 6
+    spriteID: e38575e5eeb737e4e93ecc38c36ad837
+    layerID: 328083179
+    mosaicPosition: {x: 3318, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Eiffel tower
+    spriteName: Eiffel tower
+    isGroup: 0
+    parentIndex: 6
+    spriteID: 043b01f197348134084e875b7c2455bc
+    layerID: -612938020
+    mosaicPosition: {x: 4, y: 2484}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d33ef496caeff864695f4a8be82e1b24
+    layerID: 332801758
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: grass
+    spriteName: grass
+    isGroup: 0
+    parentIndex: 16
+    spriteID: c13f2f2e752d49044b2c0eec4e5fca4b
+    layerID: -1234492412
+    mosaicPosition: {x: 1932, y: 1592}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Foreground
+    spriteName: Foreground
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ef4405b97a3ade94f8883df85e52f18c
+    layerID: 812909395
+    mosaicPosition: {x: 1932, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: bg buildings
+    spriteName: bg buildings
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ebc2a72933e25f94bbce32ff440dd2fb
+    layerID: 190220256
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 2
+    spriteName: Layer 2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 902a28f2a62356247a6fa0aa709f96e8
+    layerID: -7500619
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Paper
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9382cc7846019b74b977c63cfca46dde
+    layerID: -1779142660
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
